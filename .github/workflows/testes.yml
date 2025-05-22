@@ -1,4 +1,3 @@
-# .github/workflows/go-test.yml
 name: Go Test
 
 on:
